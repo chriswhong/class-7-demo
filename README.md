@@ -1,7 +1,7 @@
 # class-7-demo
  in-class demo for the final web mapping class
 
- This demo will incorporate fontawesome icons, bootstrap for layout and components, google fonts, a favicon, and more.
+ This demo incorporates fontawesome icons, bootstrap for layout and components, google fonts, a favicon, and more.
 
  ## About the Class
 
@@ -10,7 +10,5 @@
  
  ## Screenshot
  
- Screenshot taken during class on 3/10/22 at 8:18pm
- 
- ![My_first_web_map](https://user-images.githubusercontent.com/1833820/157783177-56ca442f-52ab-4491-bc4e-9ddfb3b679e8.png)
+ <img width="1207" alt="NYC_Neighborhoods" src="https://user-images.githubusercontent.com/1833820/157800064-bac69a02-2fa6-4f78-9de3-ca72fda454b5.png">
 
