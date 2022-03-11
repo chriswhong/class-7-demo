@@ -1,0 +1,60 @@
+#mapContainer {
+  backgroundColor: #ccc;
+  flex-grow: 1
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: 'Poppins', sans-serif;
+}
+
+#parent-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 0;
+}
+
+.content-area {
+  display: flex;
+  flex-grow: 1;
+}
+
+.sidebar {
+  width: 400px;
+  height: 100%;
+  padding: 15px;
+  background-color: #313640;
+  color: #FFF;
+  text-align: left;
+  border-right: 1px solid #5e5e5e;
+}
+
+.sidebar h3 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.sidebar h5 {
+  margin-bottom: 20px;
+}
+
+/* override bootstrap styles for primary outline buttons */
+.btn-outline-primary {
+  color: #FFF;
+  border-color: #FFF;
+}
+
+.btn-outline-primary:hover {
+  color: #333;
+  background-color: #ccc;
+  border-color: #ccc;
+}
+
+
+.navbar-brand {
+  font-family: 'Fredoka', sans-serif;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
