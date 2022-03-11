@@ -1,8 +1,3 @@
-#mapContainer {
-  backgroundColor: #ccc;
-  flex-grow: 1
-}
-
 html, body {
   margin: 0;
   height: 100%;
@@ -53,6 +48,10 @@ html, body {
   margin-bottom: 20px;
 }
 
+#mapContainer {
+  flex-grow: 1
+}
+
 /* override bootstrap styles for primary outline buttons */
 .btn-outline-primary {
   color: #FFF;
@@ -65,7 +64,7 @@ html, body {
   border-color: #ccc;
 }
 
-
+/* style the "brand" or logo area */
 .navbar-brand {
   font-family: 'Fredoka', sans-serif;
   font-weight: 600;
